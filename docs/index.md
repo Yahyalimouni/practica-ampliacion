@@ -101,7 +101,7 @@ En esta sección vamos a instalar y configurar nginx para acceder a nuestros hos
 
 Instalamos Nginx mediante el gestor de paquetes de debian `apt`.
 
-Comandos a ejecutar:
+Comandos a ejecutar: 
 
 ```bash
     sudo apt-get update # Actualiza la lista de paquetes disponibles y sus versiones en los repositorios configurados
