@@ -1,0 +1,25 @@
+site_name: Practica - Ampliación
+nav:  
+  - Home: https://yahyalimouni.github.io
+  - Practica2.1: https://yahyalimouni.github.io/practica2/
+  - Practica2.2: https://yahyalimouni.github.io/practica2.2/
+  - Practica2.3: https://yahyalimouni.github.io/practica2.3/
+  - Practica2.4: https://yahyalimouni.github.io/practica2.4/
+  - Practica2.5: https://yahyalimouni.github.io/practica2.5/
+  - Practica-amp: https://yahyalimouni.github.io/practica-ampliacion/
+
+
+theme:
+  name: material  
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight  
+    - search.share  
+    - navigation.tracking  
+
+
+  palette:
+    scheme: slate
+    primary: cyan
+    accent: indigo
